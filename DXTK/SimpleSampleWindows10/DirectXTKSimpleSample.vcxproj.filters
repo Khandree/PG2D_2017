@@ -55,12 +55,6 @@
     <Image Include="Assets\chrono.dds">
       <Filter>Assets</Filter>
     </Image>
-    <Image Include="Assets\chrono2.dds">
-      <Filter>Assets</Filter>
-    </Image>
-    <Image Include="Assets\chrono2.png">
-      <Filter>Assets</Filter>
-    </Image>
     <Image Include="Assets\cat.png">
       <Filter>Assets</Filter>
     </Image>
